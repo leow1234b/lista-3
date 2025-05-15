@@ -1,0 +1,15 @@
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.AssemblyInfo.cs
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.sourcelink.json
+C:\Users\leona\Desktop\aula.c#\meu programa\bin\Debug\net8.0\meu programa.exe
+C:\Users\leona\Desktop\aula.c#\meu programa\bin\Debug\net8.0\meu programa.deps.json
+C:\Users\leona\Desktop\aula.c#\meu programa\bin\Debug\net8.0\meu programa.runtimeconfig.json
+C:\Users\leona\Desktop\aula.c#\meu programa\bin\Debug\net8.0\meu programa.dll
+C:\Users\leona\Desktop\aula.c#\meu programa\bin\Debug\net8.0\meu programa.pdb
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.dll
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\refint\meu programa.dll
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.pdb
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\meu programa.genruntimeconfig.cache
+C:\Users\leona\Desktop\aula.c#\meu programa\obj\Debug\net8.0\ref\meu programa.dll
